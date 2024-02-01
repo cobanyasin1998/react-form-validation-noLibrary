@@ -1,4 +1,4 @@
-# react-form-validation-noLibrary
+# react-form-validation-nolibrary
 
 ## TR
 
@@ -7,3 +7,5 @@
 ## EN
 
 - In this project, we will do form-validation with React without library.
+
+- Kaynak(Source): [React Form Validation (Kütüphanesiz)](https://www.youtube.com/watch?v=JeANPINaA4A)
