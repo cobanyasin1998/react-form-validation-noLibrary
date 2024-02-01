@@ -1,8 +1,9 @@
-# React + Vite
+# react-form-validation-noLibrary
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## TR
 
-Currently, two official plugins are available:
+- Bu projede react ile kütüphanesiz form-validation yapacağız.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## EN
+
+- In this project, we will do form-validation with React without library.
